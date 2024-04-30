@@ -3,7 +3,7 @@
 This project familiarizes the domain of Adversarial Machine learning and the attacks that can be performed on the machine learning model to fool it. 
 
 ## Dataset
-The dataset used in this project was facial images from a bunch of students. The dataset is not publicaly available but a similar dataset can be used whose structure is as follows 
+The dataset used in this project was facial images from a bunch of students. The dataset is not publicly available but a similar dataset can be used whose structure is as follows 
 
 
 
